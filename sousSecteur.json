@@ -1,0 +1,57 @@
+[
+   {
+      "sousSecteur":{
+         "niveau":2,
+         "code":"0101",
+         "libelle":"BOUCHERIE ATELIER",
+         "flagEtiquetable":null,
+         "libelleLong":null,
+         "codeLibelle":"0101 - BOUCHERIE ATELIER"
+      },
+      "nbNouveauxArticles":1
+   },
+   {
+      "sousSecteur":{
+         "niveau":2,
+         "code":"0307",
+         "libelle":"FRAICHE DECOUPE",
+         "flagEtiquetable":null,
+         "libelleLong":null,
+         "codeLibelle":"0307 - FRAICHE DECOUPE"
+      },
+      "nbNouveauxArticles":4
+   },
+   {
+      "sousSecteur":{
+         "niveau":2,
+         "code":"0708",
+         "libelle":"CHARCUTERIE TRADITIONNELLE",
+         "flagEtiquetable":null,
+         "libelleLong":null,
+         "codeLibelle":"0708 - CHARCUTERIE TRADITIONNELLE"
+      },
+      "nbNouveauxArticles":2
+   },
+   {
+      "sousSecteur":{
+         "niveau":2,
+         "code":"5151",
+         "libelle":"BOISSONS HORS CAVE",
+         "flagEtiquetable":null,
+         "libelleLong":null,
+         "codeLibelle":"5151 - BOISSONS HORS CAVE"
+      },
+      "nbNouveauxArticles":2
+   },
+   {
+      "sousSecteur":{
+         "niveau":2,
+         "code":"5454",
+         "libelle":"BAZAR",
+         "flagEtiquetable":null,
+         "libelleLong":null,
+         "codeLibelle":"5454 - BAZAR"
+      },
+      "nbNouveauxArticles":33
+   }
+]
