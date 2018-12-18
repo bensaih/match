@@ -1,0 +1,33 @@
+{
+   "nbArticlesTotal":42,
+   "listOfTypesFlux":[
+      {
+         "type":"MA004",
+         "poste":"1"
+      },
+      {
+         "type":"MA004",
+         "poste":"2"
+      }
+   ],
+   "listOfTypesCommande":[
+      {
+         "type":"PC018",
+         "poste":"1"
+      },
+      {
+         "type":"PC018",
+         "poste":"2"
+      }
+   ],
+   "listOfFormatsEtiquette":[
+      {
+         "type":"MA025",
+         "poste":"G"
+      },
+      {
+         "type":"MA025",
+         "poste":"P"
+      }
+   ]
+}
